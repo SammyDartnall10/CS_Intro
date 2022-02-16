@@ -1,2 +1,2 @@
-# CS_Intro
+# algorithms-exercises
 Created with CodeSandbox
